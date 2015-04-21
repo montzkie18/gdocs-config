@@ -1,4 +1,4 @@
-gdocs-config
+Unity3D Configs from Google Spreadsheet
 ============
 Use Google Docs Spreadsheet to store your app or game configurations that you can edit on the fly. This is especially useful when testing your app on mobile to save you time from compilation.
 
